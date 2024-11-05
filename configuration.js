@@ -1,8 +1,8 @@
 const config = {
-  name: "Baptiste Gaillard",
+  name: "Baptiste E.R. Gaillard",
   description: {
     EN: {
-      short: `Baptiste Gaillard is a PhD student in sociology since December 2021 at the Laboratoire Interdisciplinaire Sciences Innovations Sociétés (UMR INRAE/LISIS)<a href="https://umr-lisis.fr/">here</a>, and he is co-funded by the research project ANR-19-MGPA-0010 WAYS-OUT.`,
+      short: `Baptiste E.R. Gaillard is a PhD student in sociology since December 2021 at the Laboratoire Interdisciplinaire Sciences Innovations Sociétés (UMR INRAE/LISIS)<a href="https://umr-lisis.fr/">here</a>, and he is co-funded by the research project ANR-19-MGPA-0010 WAYS-OUT.`,
       long: "", // You can add a longer description if needed
     },
     FR: {
